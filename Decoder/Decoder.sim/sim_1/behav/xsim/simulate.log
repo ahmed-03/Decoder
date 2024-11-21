@@ -1,0 +1,3 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+$finish called at time : 60 ns : File "/home/it/Desktop/sv_projects/K2/Decoder/Decoder/Decoder.srcs/sim_1/new/tb_Decoder.sv" Line 53
